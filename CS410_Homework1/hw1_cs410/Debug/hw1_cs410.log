@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ag062\OneDrive\Desktop\hw1_cs410\hw1_cs410\Source.cpp(148,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ag062\OneDrive\Desktop\hw1_cs410\hw1_cs410\Source.cpp(150,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  hw1_cs410.vcxproj -> C:\Users\ag062\OneDrive\Desktop\hw1_cs410\Debug\hw1_cs410.exe
